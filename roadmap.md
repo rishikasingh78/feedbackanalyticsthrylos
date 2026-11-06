@@ -1,0 +1,3 @@
+- [x] Add secure password-only access to the existing dashboard and protect its data.
+- [x] Add Open Dashboard and return-to-feedback navigation without changing the form.
+- [x] Configure dashboard secrets and verify access, navigation, and existing tests.
